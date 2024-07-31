@@ -51,9 +51,15 @@ This report shows the number of participants across different age groups, gender
 
 
 2.Excel (for verifying the data )
-   
 
 3.Canva (for presentation)
+
+## Conclusion 
+
+#### Completing this project enhances my analytical and technical skills, offers valuable hands-on experience, and proves my capability to deliver insights that guide key business decisions in the food & beverage industry.
+   
+
+
 
 
 
